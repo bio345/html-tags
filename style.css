@@ -1,0 +1,55 @@
+
+  
+header{
+  position: relative;
+    background-color: rgb(12, 59, 46);
+    color: aliceblue; 
+    height: 1000px;
+    
+    
+}
+header img{
+    position: absolute;
+    left: 50%;
+    height: 100%;
+    width: 50%;
+    margin-left: auto;
+   
+    
+}
+h1{
+    font-size: 60px;
+    font-style: normal;
+    position: absolute;
+    left: 10%;
+    bottom: 50%;
+    
+}
+c1{
+    position: absolute;
+    left: 10%;
+    bottom: 50%;
+    font-size: larger;
+}
+date{
+    position: absolute;
+    left: 10%;
+    bottom: 30%;
+    font-size: medium;
+}
+button{
+    padding: 8px;
+    border-radius: 100px; /* creates a cylindrical shape */
+    background-color: rgb(255, 186, 0);
+    color: black;
+    position: absolute;
+    left: 10%;
+    bottom: 20%;
+    font-size: medium;
+    
+   
+   
+    
+}
+
+
